@@ -7,5 +7,5 @@
 2. Topic
 
 ## Roster analysis
-1. Provide accurate information about the schedule of cabin crew members 
-2. Unify the Roster terms or several airlines
+1. Unify the Roster terms of several airlines
+2. Provide accurate information about the schedule of cabin crew members 
