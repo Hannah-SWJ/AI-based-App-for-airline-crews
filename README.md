@@ -1,10 +1,12 @@
 # AI-based-App-for-airline-crews
-승무원들을 위한 앱에 AI 기반 기능 추가
-- AWS 사용
+https://www.rbgroup.aero/blog/university-students-help-create-machine-learning-models-for-rb/
+Add AI functions to the RosterBuster app which is for airlinecrews 
+
+- roster app & communication platform
 
 ## Message analysis
-1. Sentiment
-2. Topic
+1. Sentiment analysis
+2. Topic analysis
 
 ## Roster analysis
 1. Unify the Roster terms of several airlines
