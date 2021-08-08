@@ -9,5 +9,5 @@ Add AI functions to the RosterBuster app which is for airlinecrews
 2. Topic analysis
 
 ## Roster analysis
-1. Unify the Roster terms of several airlines
-2. Provide accurate information about the schedule of cabin crew members 
+1. Unify the Roster and roster terms of several airlines
+2. Provide information about the schedule of cabin crew members 
